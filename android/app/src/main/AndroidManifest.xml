@@ -1,11 +1,10 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.g.city.g_city">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.g.city">
    <application
-        android:label="g_city"
+        android:label="G City"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:name=".MainActivity"
+            android:name="com.g.city.MainActivity"
             android:exported="true"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"

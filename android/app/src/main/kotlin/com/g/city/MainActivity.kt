@@ -1,4 +1,4 @@
-package com.g.city.g_city
+package com.g.city
 
 import io.flutter.embedding.android.FlutterActivity
 
